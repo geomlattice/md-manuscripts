@@ -1,4 +1,4 @@
-Hegel, Newton, and the Finite
+# Hegel, Newton, and the Finite
 
 I chose to take AP Comparative Government in place of AP Physics because the teacher of the former had mentioned the name Hegel to me after class the semester or so prior. I couldn’t quite understand what was behind this name despite visits to Wikipedia and the Stanford Encyclopedia of Philosophy and that enigma drew me further and further into the world of this teacher. Noticing my interest, the teacher soon threw some books my way he had been thumbing through at the time. The first work of philosophy he introduced me to was Habermas’ Structural Transformation of the Public Sphere. This book went on to confuse me further about not only Hegel, but also Kant and Marx. The only figure I felt I understood was De Touqeville. What struck me most was how the duration of the text was concentrated upon quotes and analysis of things others had thought instead of a simple declaration of simple facts and states of things.  I will never forget the moment that I opened this book and was met with an etymological analysis of Oikos. I pushed through the work in spite of being confused and lost for large parts of it. It was more like enduring a dream than being among waking reality. 
 
@@ -48,9 +48,10 @@ I say again, the finite calculus can give us proofs for statements suggested and
 
 Hegel loved Kepler and Simplicius. I'm not sure if he knew that through Kepler, he could find deeper love for Simplicius. But this is of no matter because in any philosopher of worth, there's an excess in the work that allows a new way of creative being beyond what the author would have animated. Hegel did not love Kepler for Simplicius, but I will love Kepler more and more through Simplicius and those Islamicate Writers who received and retained his work. This will be the only Hegelianism I retain. This is the Surplus Value of Hegelianism: a lure into Islamicate Mathematics Integrated into a Philosophy of Neopythagoreanism. 
 
-Citation Chain
+### Citation Chain
 https://hegel.net/en/v2133healan.htm
-Digressions on the Inverted Colony 
+
+# Digressions on the Inverted Colony 
 
 Now I can forgive Newton, or rather my mistakes over the past decade in the way I've received what today is put forth of the work of that Most Illustrious Genius Sir Isaac Newton. The English have led me back to the so called lands of Persia, India, China, possibly North Africa maybe. The disconnect with Latin that the vernacular languages has exacted is effectively what shutting down the entire Internet would be for us. The databases were once Latin with API calls to other languages. The vernacular languages inverted this, forgot the origins of the sciences themselves both Computational and Natural, and declared a frontier for conquest and discovery where they had forgotten entire grand traditions had been, were, still are, and will forever be. Resistance exists on all fronts to this convenient amnesia of the conquer who congratulates themself with the whole of history. 
 
