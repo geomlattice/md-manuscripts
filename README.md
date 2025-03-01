@@ -1,0 +1,3 @@
+# md manuscripts
+
+Markdown Manuscripts is a project with a simple aim: to bring to scholastic urge to the editor with version control. Simple manuscripts that are easy to share and keep track of will speed up development of ideas...
